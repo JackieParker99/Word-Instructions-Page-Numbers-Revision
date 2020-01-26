@@ -3,7 +3,7 @@ layout: post
 title: "Microsoft Word - How to Add Page Numbers" 
 date:   2020-01-26 10:00:00
 category: Tutorials
-authors: "Samuel Detweiler" 
+authors: "Samuel Detweiler & Jackie Parker" 
 ---
 
 # Lesson Abstract: 
