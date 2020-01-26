@@ -20,7 +20,7 @@ Lesson Objectives/Outcomes:
 To complete this this tutorial a student must have Microsoft Word.
 
 ## Overview:
-In this tutorial a student will learn how to add pages numbers to the top and/or to the bottom of pages in word, be able to create headers and footers, and set up their required margins.
+In this tutorial a student will learn how to add pages numbers to the top and/or to the bottom of pages in word creating the required header and footer.
 
 ## Lesson Steps/Components [as many as needed]:
 
